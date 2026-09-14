@@ -7,19 +7,14 @@
 English Education Explorer is a local-first AI decision-support prototype for English education, designed around learners aged 3–15.
 
 英探探是一款面向 **3–15 岁英语学习与教育场景** 的本地 AI 决策辅助工具，帮助家长、学生与教育工作者从一个具体学习问题出发，理解学习瓶颈、探索市场需求，并进一步形成可以快速验证的 AI 教育产品方案。
-> 我们探索一种更自然的学习方式：**让英语学习不只发生在课堂和固定学习时间里，而是进入家庭生活、真实情境与日常互动**；同时借助 AI 对学习目标、学习状态与具体情境的理解，让学习从“学生主动打开一个产品”逐渐走向“**在合适的时间，以合适的方式主动找到学生**”。
 
-The project focuses on three connected questions:
-
-1. **What is the learner actually struggling with?**
-2. **What does the market already offer, and what remains unresolved?**
-3. **What is the smallest useful solution worth testing?**
-
-对应三个核心问题：
+我们聚焦三个核心问题：
 
 1. **学习者真正卡在哪里？**
 2. **市场已经如何解决，还有哪些问题没有被解决？**
 3. **最小、最值得验证的解决方案是什么？**
+> 我们探索一种更自然的学习理念：**让英语学习不只发生在课堂和固定学习时间里，而是进入家庭生活、真实情境与日常互动**；同时借助 AI 对学习目标、学习状态与具体情境的理解，让学习从“学生主动打开一个产品”逐渐走向“**在合适的时间，以合适的方式主动找到学生**”。
+
 <img width="1510" height="943" alt="cover" src="https://github.com/user-attachments/assets/0fded505-0017-48a1-bd61-1fdbaa5c971c" />
 
 传统英语教育方案往往从课程、教材或产品功能出发，而不是先判断学习者真正的问题是什么，导致**需求、机制与解决方案之间缺少明确对应关系**。与此同时，随着 Z 世代家长逐渐成为新家庭教育决策主体，英语教育需求也从“有没有学”转向“**学得是否科学、是否适合孩子、是否真正有效**”。家长不仅希望获得课程和内容，更希望看清孩子真正的问题、理解背后的学习机制，并在众多 AI 工具与教育产品中找到更适合的解决方案。
