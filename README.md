@@ -32,7 +32,6 @@ These modules do not follow a strictly linear workflow. Users can start from any
 1. Solve a Need!
 **学习问题诊断**
 <img width="1512" height="945" alt="solve02" src="https://github.com/user-attachments/assets/71636d2e-c470-4d7e-b1fb-99d70c68c065" />
-<img width="1512" height="945" alt="solve02" src="https://github.com/user-attachments/assets/6ddc708b-7e1a-4f9b-bc24-7b4219a66447" />
 
 2. Explore the Market
 **市场需求与现有方案探索**
